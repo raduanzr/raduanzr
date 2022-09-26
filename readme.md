@@ -5,7 +5,7 @@ Nas linhas abaixo você encontrará minha experiência de trabalho com a program
 
 **Front-end Developer (Jr)** \
 [**iConecta**](https://iconecta.host/) • Contract \
-Linguagens & Tecnologias: `HTML5`, `CSS3`, `Bootstrap`, `PHP`, `JavaScript`, `Node`.\
+Linguagens & Tecnologias: `HTML5`, `CSS3`, `Bootstrap`, `PHP`, `JavaScript`.\
 Em destaque: `Desenvolvimento de linguagens adquiridas durante o período na empresa`, `Sites e Sistemas`
 <br/>
 <br/>
